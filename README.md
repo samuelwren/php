@@ -13,6 +13,8 @@ This Repository has all of the PHP and Laravel work that I have learnt from Univ
 The folders ranger from uploading a simple product to a database to a full Social Media platform.
 This Social Media Platform allows for people to create, upload a profile photo, password to a user being able to post messages.
 
+
+## Other
 Hi there! Welcome to Cloud9 IDE!
 
 To get you started, we have created a small hello world application.
