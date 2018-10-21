@@ -1,0 +1,2 @@
+[14-Aug-2017 04:35:25 UTC] PHP Warning:  Unterminated comment starting line 121 in /home/ubuntu/workspace/assignment1.1/routes/web.php on line 121
+[14-Aug-2017 04:50:05 UTC] PHP Fatal error:  Cannot use [] for reading in /home/ubuntu/workspace/assignment1.1/routes/web.php on line 125

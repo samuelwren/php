@@ -1,0 +1,2 @@
+[01-Sep-2017 06:07:48 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Auth\RegisterController::validator() in /home/ubuntu/workspace/assignment2/app/Http/Controllers/Auth/RegisterController.php on line 61
+[20-Sep-2017 03:47:46 UTC] PHP Warning:  POST Content-Length of 10528482 bytes exceeds the limit of 8388608 bytes in Unknown on line 0

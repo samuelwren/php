@@ -1,0 +1,2 @@
+[29-Aug-2017 08:22:35 UTC] PHP Fatal error:  Class 'App\Controller' not found in /home/ubuntu/workspace/week8/task2.1/app/Http/Controllers/ProductController.php on line 7
+[29-Aug-2017 08:41:58 UTC] PHP Fatal error:  Class 'Controller' not found in /home/ubuntu/workspace/week8/task2.1/app/Http/Controllers/ProductController.php on line 6

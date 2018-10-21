@@ -1,0 +1,25 @@
+[19-Jul-2017 03:05:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/week3/task5/assoc/includes/defs.php on line 57
+[19-Jul-2017 03:05:00 UTC] PHP Stack trace:
+[19-Jul-2017 03:05:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/week3/task5/assoc/results.php:0
+[19-Jul-2017 03:07:47 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/week3/task5/assoc/includes/defs.php on line 65
+[19-Jul-2017 03:07:47 UTC] PHP Stack trace:
+[19-Jul-2017 03:07:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/week3/task5/assoc/results.php:0
+[19-Jul-2017 03:15:25 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/week3/task5/assoc/includes/defs.php on line 26
+[19-Jul-2017 03:15:25 UTC] PHP Stack trace:
+[19-Jul-2017 03:15:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/week3/task5/assoc/results.php:0
+[19-Jul-2017 03:15:28 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/week3/task5/assoc/includes/defs.php on line 26
+[19-Jul-2017 03:15:28 UTC] PHP Stack trace:
+[19-Jul-2017 03:15:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/week3/task5/assoc/results.php:0
+[19-Jul-2017 04:00:00 UTC] PHP Fatal error:  Using $this when not in object context in /home/ubuntu/workspace/week3/task5/assoc/results.php on line 33
+[19-Jul-2017 04:00:00 UTC] PHP Stack trace:
+[19-Jul-2017 04:00:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/week3/task5/assoc/results.php:0
+[19-Jul-2017 04:01:07 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ubuntu/workspace/week3/task5/assoc/results.php on line 33
+[19-Jul-2017 04:05:15 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ubuntu/workspace/week3/task5/assoc/results.php on line 33
+[19-Jul-2017 04:37:27 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/week3/task5/assoc/results.php on line 36
+[19-Jul-2017 04:37:47 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ubuntu/workspace/week3/task5/assoc/results.php on line 40
+[19-Jul-2017 04:37:49 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ubuntu/workspace/week3/task5/assoc/results.php on line 40
+[19-Jul-2017 09:37:19 UTC] PHP Warning:  count() expects at least 1 parameter, 0 given in /home/ubuntu/workspace/week3/task5/assoc/includes/defs.php on line 34
+[19-Jul-2017 09:37:19 UTC] PHP Stack trace:
+[19-Jul-2017 09:37:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/week3/task5/assoc/results.php:0
+[19-Jul-2017 09:37:19 UTC] PHP   2. search() /home/ubuntu/workspace/week3/task5/assoc/results.php:13
+[19-Jul-2017 09:37:19 UTC] PHP   3. count() /home/ubuntu/workspace/week3/task5/assoc/includes/defs.php:34
